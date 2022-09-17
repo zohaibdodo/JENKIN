@@ -1,0 +1,7 @@
+JENKINS INSTALLATION:
+
+java --version
+
+To install Java:
+
+sudo apt install openjdk-11-jdk
